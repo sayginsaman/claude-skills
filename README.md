@@ -100,7 +100,7 @@ description: >
 
 ## License
 
-MIT — see [LICENSE](./LICENSE) if/when added. Use, adapt, fork freely.
+MIT — see [LICENSE](./LICENSE). Use, adapt, fork freely.
 
 ---
 
